@@ -8,12 +8,12 @@ A static method named ** checkEmail(string [] emails)** that receives an array o
    * The Domain name for each email address must be "just.edu.jo".
    * An example of a valid email:
    '''
-   20229775@just.edu.jo
+   `20229775@just.edu.jo`
    '''
    * An example of an invalid email:
    '''
-   20227995just.edu.jo
-   2024454984@edu.org
+   `20227995just.edu.jo`
+   `2024454984@edu.org`
    '''
 2. Print the domain name for each valid email address.
 3. Print the number of valid and invalid email address.
